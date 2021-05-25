@@ -11,6 +11,10 @@ Shoot the bubbles to score points.
 
 Try to get as many points as possible before you die.
 
+## Redirect Here!
+https://BouncyBubbler.alston123.repl.co
+Find my all-new game here!
+
 ## extra features?
 ### Change Gamemodes
 
